@@ -21,7 +21,7 @@ public class Main {
         service.createmployeSer(new Employe("messaoudi", "amine","mail", 5679, 50000));
         service.createmployeSer(new Employe("farid", "ayoub","mail", 5876, 40000));
         service.createmployeSer(new Employe("sami", "ali","mail", 5318, 45000));
-        service.createmployeSer(new Employe("rami", "salah","mail", 5200, 30000));
+        service.createmployeSer(new Employe("malki", "salah","mail", 5200, 30000));
 
         service.chercherEmploye(23);
 
